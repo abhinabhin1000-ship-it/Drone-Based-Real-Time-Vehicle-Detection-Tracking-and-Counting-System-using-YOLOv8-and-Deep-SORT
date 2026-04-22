@@ -40,7 +40,8 @@ This project implements a real-time vehicle detection, tracking, and counting sy
 ---
 
 ##  Sample Output
-![Output](assets/sample_frame.png)
+![Output 1](output1.png)
+![Output 2](output2.png)
 
 ---
 
