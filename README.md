@@ -44,10 +44,6 @@ This project implements a real-time vehicle detection, tracking, and counting sy
 
 ---
 
-## ▶️ Demo Video
-(Add your output.mp4 or Google Drive link here)
-
----
 
 ## 🛠️ Installation
 
